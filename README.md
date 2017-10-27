@@ -1,6 +1,6 @@
 # mt-plugin-StyleCatcher
 
-StyleCatcher lets you easily browse through styles and then apply them to your blog in just a few clicks."
+StyleCatcher lets you easily browse through styles and then apply them to your blog in just a few clicks.
 
 # Requirements
 
