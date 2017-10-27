@@ -5,6 +5,7 @@ StyleCatcher lets you easily browse through styles and then apply them to your b
 # Requirements
 
 * Movable Type 7 or higher
+* [HTML::Parser](https://metacpan.org/pod/HTML::Parser)
 
 # Installation
 
