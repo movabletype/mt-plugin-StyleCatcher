@@ -19,7 +19,7 @@ The MIT License (MIT)
 
 ## Support
 
-See [SUPPORT.TXT](SUPPORT.TXT)
+See [SUPPORT.TXT](SUPPORT.txt)
 
 # Copyright
 
